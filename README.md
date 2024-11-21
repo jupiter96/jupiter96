@@ -1,9 +1,9 @@
 ### Hi there. 👋
 
-## Mid-Senior Mobile & Web Developer.
+## Experienced Software Engineer.
 
-- 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,Python, PHP.
+- 🔭 I'm a full-time developer.
+- 🌱 I'm an individual Software Engineer, specializing in Javascript/Typescript, Python, Java, and PHP.
 
 ### Languages and Tools:
 
