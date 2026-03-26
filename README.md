@@ -28,5 +28,5 @@
 
 ---
 
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NTBBloodbath&show_icons=true&hide_border=true" />
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jupiter96&show_icons=true&hide_border=true" />
 
